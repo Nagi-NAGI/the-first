@@ -1,7 +1,5 @@
 # the-first
 
-最初のレポジトリ
-
 My first repository on GitHub
 ---
 
